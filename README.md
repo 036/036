@@ -14,7 +14,7 @@
 - 🌱 I’m currently working with **C#**, **ASP.NET**, **PHP**, **Java**, **Kotlin** and general **full-stack development**
 - ⚡ Current and past projects:
   - Thrift IDL generator using reflection from compiled Il2cpp applications **[Il2cppThriftGen](https://github.com/036/Il2cppThriftGen)**
-  -[MyBBPluginBuilder](https://github.com/036/PluginBuilder)
+  - [MyBBPluginBuilder](https://github.com/036/PluginBuilder)
 - 🧠 Interests include:
   - Full stack development
   - Automation for websites and games
